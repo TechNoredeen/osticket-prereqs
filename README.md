@@ -33,7 +33,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <br />
 </p>
 <p>
-	<img src="https://i.imgur.com/5CV6cLD.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/fZMY4ZF.png" />
 </p>
 <p>
 <h3 align="center">Now, create a Windows 10 Virtual Machine (VM), typically with 2-4 Virtual CPUs. For username and password, it can be anything as we'll be using this info to remote in with our main computer. When creating the Virtual Machine (VM), allow Azure to create a new Virtual Network (Vnet):</h3>
